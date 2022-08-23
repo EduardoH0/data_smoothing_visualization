@@ -1,4 +1,4 @@
-# Eduardo Herreros Fraile - GBSFLP 
+# Eduardo Herreros
 
 import numpy as np
 import matplotlib.pyplot as plt
